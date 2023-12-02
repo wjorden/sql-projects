@@ -23,3 +23,7 @@ Within SSMS:
 ## Notes for PostgreSQL
 
 PgAdmin was used to create all of the tables.
+
+### Notes for SBA
+
+Due to the sie of the data, here is the [link](https://data.sba.gov/dataset/ppp-foia) for it. The Table of Size Standards (NAICS) CSV can be pulled from this repo or downloaded from [here](https://www.sba.gov/document/support-table-size-standards).
